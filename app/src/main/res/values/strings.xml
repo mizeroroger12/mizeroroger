@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roger</string>
+    <string name="title_activity_welcome">MIZERO ROGER</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MIZERO ROGER</string>
+    <string name="nav_header_subtitle">mizeroroger2@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">My Profile</string>
+    <string name="usernamehint">Enter Username</string>
+</resources>
